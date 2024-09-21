@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Vārds</Name>
+    <Surname>Uzvārds</Surname>
+    <Id>321</Id>
+    <Group>2</Group>
+    <Email>epasts@abc.ab</Email>
+  </Student>
+  <Student>
+    <Name>Jānis</Name>
+    <Surname>Bērziņš</Surname>
+    <Id>123</Id>
+    <Group>1</Group>
+    <Email>jberzins@epasts.lv</Email>
+  </Student>
+</ArrayOfStudent>
